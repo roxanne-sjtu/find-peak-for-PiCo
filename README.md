@@ -1,4 +1,4 @@
-# find-peak-for-PiCo
+# find-peak-for-PiCo/For SJTU muon physics group Positronium QED varify program
 This repository is developed aiming at find the valid peak of gamma signal from a large number of invalid signals(like 1 million)
 
 To use this code, please editted for your personal aim. For example, in our find_peak_for_text.cpp(example), we only choose entries that  CH A,B has signal and only choose the first peak for  CH C,D.
